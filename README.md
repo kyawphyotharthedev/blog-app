@@ -32,7 +32,8 @@ This is a simple CRUD application for Blog. It allows creating, reading, updatin
  
  # DataBase Setup
  <h5>
-This project uses  MySQL database for storing user and post data. To set up the database schema locally:</h5>
+To set up the database schema locally:
+ </h5>
 <ol>
   <li> CREATE DATABASE Blog ;</li>
   <li> USE Blog ;</li>
