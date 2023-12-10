@@ -1,4 +1,4 @@
-# Blog Website
+# Blog App
 This is a simple CRUD application for Blog. It allows creating, reading, updating and deleting blog records in a database.
 
  # Usage
